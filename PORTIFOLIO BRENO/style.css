@@ -1,0 +1,21 @@
+a p{
+    background-color: aqua;
+    padding: 15px 0;
+    width: 20%;
+    color: black;
+    font-weight: bold;
+    border-radius: 50px;
+    text-align: center;
+    transition: 1s all;
+    cursor: pointer;
+    margin: 20px auto;
+}
+
+h1{
+    text-align: center;
+}
+
+a p:hover{
+    background-color: red;
+    transform: scale(1.2);
+}
